@@ -70,6 +70,8 @@ body {
 	padding-top: 20px;
 	padding-bottom: 50px;
 	height: 100vh;
+	background-image: url(./new\ \(1\).png);
+	background-size: cover;
 }
 
 .logo {
